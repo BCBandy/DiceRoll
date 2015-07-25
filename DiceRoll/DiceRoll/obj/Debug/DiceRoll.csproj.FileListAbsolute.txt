@@ -1,0 +1,13 @@
+C:\Users\Blake\AppData\Local\Temporary Projects\DiceRoll\bin\Debug\DiceRoll.exe.config
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\c# class\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe.config
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\c# class\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\c# class\DiceRoll\DiceRoll\bin\Debug\DiceRoll.pdb
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\c# class\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csprojResolveAssemblyReference.cache
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\c# class\DiceRoll\DiceRoll\obj\Debug\DiceRoll.form_stdDist.resources
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\c# class\DiceRoll\DiceRoll\obj\Debug\DiceRoll.FormSub.resources
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\c# class\DiceRoll\DiceRoll\obj\Debug\DiceRoll.Form3.resources
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\c# class\DiceRoll\DiceRoll\obj\Debug\DiceRoll.Form4.resources
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\c# class\DiceRoll\DiceRoll\obj\Debug\DiceRoll.Properties.Resources.resources
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\c# class\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csproj.GenerateResource.Cache
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\c# class\DiceRoll\DiceRoll\obj\Debug\DiceRoll.exe
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\c# class\DiceRoll\DiceRoll\obj\Debug\DiceRoll.pdb
